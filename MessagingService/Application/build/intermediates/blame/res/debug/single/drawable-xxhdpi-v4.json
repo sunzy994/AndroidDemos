@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/android_contact.png",
+        "source": "/home/sunzy/workspace/MessagingService/Application/src/main/res/drawable-xxhdpi/android_contact.png"
+    },
+    {
+        "merged": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/notification_icon.png",
+        "source": "/home/sunzy/workspace/MessagingService/Application/src/main/res/drawable-xxhdpi/notification_icon.png"
+    },
+    {
+        "merged": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/sunzy/workspace/MessagingService/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/sunzy/workspace/MessagingService/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/res/merged/debug/layout/fragment_message_me.xml",
+        "source": "/home/sunzy/workspace/MessagingService/Application/src/main/res/layout/fragment_message_me.xml"
+    }
+]

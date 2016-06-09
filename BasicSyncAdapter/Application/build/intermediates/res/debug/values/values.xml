@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="reference" name="indeterminateProgressStyle"/>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="cardview_dark_background">#FF202020</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
+    <declare-styleable name="GridLayout"><attr name="orientation"><enum name="horizontal" value="0"/><enum name="vertical" value="1"/></attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode"><enum name="alignBounds" value="0"/><enum name="alignMargins" value="1"/></attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable>
+    <declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="float" name="layout_rowWeight"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr format="float" name="layout_columnWeight"/><attr name="layout_gravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr></declare-styleable>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="action_button_min_width">56dp</dimen>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="default_gap">8dip</dimen>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/dimen.xml -->
+    <eat-comment/>
+    <dimen name="indeterminate_progress_size">32dp</dimen>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="account_name">FeedSync Service</string>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="app_name">BasicSyncAdapter</string>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="description_refresh">Refresh</string>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            This sample demonstrates using SyncAdapter to fetch background data for an app that
+            doesn\'t require a user-visible account type or 2-way synchronization.
+
+            \n\nThis sample periodically downloads the feed from the Android Developer Blog and
+            caches the data in a content provider. At runtime, the cached feed data is displayed
+            inside a ListView.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="loading">Waiting for sync...</string>
+    <string name="title_entry_detail">Entry Detail</string>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <!-- From: file:/home/sunzy/workspace/BasicSyncAdapter/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

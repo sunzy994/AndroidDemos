@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="cardview_dark_background">#FF202020</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="approval" type="id"/>
+    <item name="message" type="id"/>
+    <item name="number" type="id"/>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add">Add</string>
+    <string name="add_item">Add a new item</string>
+    <string name="age">Age</string>
+    <string name="allow_saying_hello">Allow AppRestrictionSchema to say hello: </string>
+    <string name="allowed">Allowed</string>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="app_name">AppRestrictionEnforcer</string>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="approvals">Approvals: </string>
+    <string name="disallowed">Disallowed</string>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+	    This sample demonstrates how to set restrictions to other apps as a profile owner.
+	    Use AppRestrictionSchema sample as a app with available restrictions.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="item">%1$s: %2$s</string>
+    <string name="items">Items: </string>
+    <string name="key">Key</string>
+    <string name="message">Message: </string>
+    <string name="name">Name</string>
+    <string name="number">Number: </string>
+    <string name="profile">Profile: </string>
+    <string name="profile_name">AppRestrictionEnforcer </string>
+    <string name="rank">Rank: </string>
+    <string name="remove">Remove</string>
+    <string name="set_up_profile">Set up profile</string>
+    <string name="setup_profile_message">This app is currently not a profile owner.</string>
+    <string name="status_need_reinstall">AppRestrictionSchema needs reinstalling.</string>
+    <string name="status_not_activated">AppRestrictionsSchema is installed, but not activated in this profile.</string>
+    <string name="status_not_installed">AppRestrictionsSchema is not installed.</string>
+    <string name="unhide">Activate AppRestrictionSchema</string>
+    <string name="value">Value</string>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <!-- From: file:/home/sunzy/workspace/AppRestrictionEnforcer/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>

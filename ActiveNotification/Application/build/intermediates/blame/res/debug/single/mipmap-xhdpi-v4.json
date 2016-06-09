@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_notification.png",
+        "source": "/home/sunzy/workspace/ActiveNotification/Application/src/main/res/mipmap-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/sunzy/workspace/ActiveNotification/Application/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,433 @@
+[
+    {
+        "outputFile": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 61,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 61,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 63,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 54,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 54,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 55,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 55,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 57,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 57,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 55,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 55,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endColumn": 58,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endColumn": 56,
+                    "endOffset": 1325
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 56,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1330,
+                    "endColumn": 53,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 53,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1384,
+                    "endColumn": 53,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 53,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endColumn": 47,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 47,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 43,
+                    "endOffset": 1525
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 43,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1530,
+                    "endColumn": 39,
+                    "endOffset": 1565
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 39,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1570,
+                    "endColumn": 86,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 969,
+                        "endColumn": 86,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1657,
+                    "endColumn": 82,
+                    "endOffset": 1735
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 82,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1740,
+                    "endColumn": 84,
+                    "endOffset": 1820
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 84,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1825,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1909
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1914,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2375
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2380,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2501
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1625,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2506,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2629
+                },
+                "from": {
+                    "file": "/home/sunzy/workspace/MessagingService/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1874
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-b1fae96d1ac92cc23e6fabb5b525869b70188d9a.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-4086858e12b2b69b6849c073faea9c44231ffb9f.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-40cb8f40cacbd4765263e3423e758dcb10ac9325.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes-631835ac067821ddaea0a804e4b6571e6d7b7fb5.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-e50f8c3d92a6de59069fc47f39d622fc48b5d5ad.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/develop/android-sdk-linux/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/sunzy/workspace/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-3975dc34590d7c7ef08c872e310423766c300c63.jar" />
+    </item>
+
+</items>

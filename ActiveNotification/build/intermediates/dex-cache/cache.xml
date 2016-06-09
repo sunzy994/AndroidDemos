@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="c449a8b23f9b989a814220af893445b382a0b50d">
+        <dex dex="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.0.0-alpha1_860826d4b544d7fb9e61ea99f756379f6414b133.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-alpha1_3c9bf938afed297ecd867c114c887731e712e092.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="ba75da866b3d975ca7a9fbdbcd61de67932e0052">
+        <dex dex="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_d0e10b1e3b172a051c9cd0692952579afc665a84.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/develop/android-sdk-linux/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1_ef468a3732a7375f76a1f14ccfa0a2e57ae5278b.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="5305936738497fe4a5d89fc4f13015931c0fd402">
+        <dex dex="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.0.0-alpha1_7d3d40591f8886f4d6c4bb31340f14a8117cb28e.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-alpha1_000160773df51b7042060ae117f1d84bd72470c7.jar" />
+    </item>
+    <item
+        jar="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/home/sunzy/workspace/ActiveNotification/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-alpha1_96e9e47289419cb8a05d56394d366ae615215193.jar" />
+    </item>
+
+</items>

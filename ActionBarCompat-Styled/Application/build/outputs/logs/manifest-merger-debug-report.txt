@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:18:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:18:11
+	package
+		ADDED from AndroidManifest.xml:19:5
+	android:versionName
+		ADDED from AndroidManifest.xml:21:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:20:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:29:5
+MERGED from com.android.support:support-v4:23.1.0:22:5
+MERGED from com.android.support:gridlayout-v7:23.1.0:22:5
+MERGED from com.android.support:support-v4:23.1.0:22:5
+MERGED from com.android.support:cardview-v7:23.1.0:22:5
+MERGED from com.android.support:appcompat-v7:18.0.0:19:5
+MERGED from com.android.support:support-v4:23.1.0:22:5
+	android:label
+		ADDED from AndroidManifest.xml:31:9
+	android:icon
+		ADDED from AndroidManifest.xml:30:9
+	android:theme
+		ADDED from AndroidManifest.xml:32:9
+activity#com.example.android.actionbarcompat.styled.MainActivity
+ADDED from AndroidManifest.xml:34:9
+	android:name
+		ADDED from AndroidManifest.xml:34:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:37:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:38:17
+	android:name
+		ADDED from AndroidManifest.xml:38:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:39:17
+	android:name
+		ADDED from AndroidManifest.xml:39:27
+meta-data#android.support.UI_OPTIONS
+ADDED from AndroidManifest.xml:47:13
+	android:name
+		ADDED from AndroidManifest.xml:48:17
+	android:value
+		ADDED from AndroidManifest.xml:49:17
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.android.support:support-v4:23.1.0:20:5
+MERGED from com.android.support:gridlayout-v7:23.1.0:20:5
+MERGED from com.android.support:support-v4:23.1.0:20:5
+MERGED from com.android.support:cardview-v7:23.1.0:20:5
+MERGED from com.android.support:appcompat-v7:18.0.0:18:5
+MERGED from com.android.support:support-v4:23.1.0:20:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0

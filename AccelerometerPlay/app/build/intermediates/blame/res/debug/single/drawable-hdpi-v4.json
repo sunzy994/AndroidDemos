@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sunzy/workspace/AccelerometerPlay/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/sunzy/workspace/AccelerometerPlay/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/sunzy/workspace/AccelerometerPlay/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wood.jpg",
+        "source": "/home/sunzy/workspace/AccelerometerPlay/app/src/main/res/drawable-hdpi/wood.jpg"
+    },
+    {
+        "merged": "/home/sunzy/workspace/AccelerometerPlay/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ball.png",
+        "source": "/home/sunzy/workspace/AccelerometerPlay/app/src/main/res/drawable-hdpi/ball.png"
+    }
+]
